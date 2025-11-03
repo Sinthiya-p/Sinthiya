@@ -5,7 +5,7 @@ print("print even number")
 for i in range(2,51,2):
          print(i)
 print("print odd number")         
-for i in range(1,51,3):
+for i in range(1,51,2):
          print(i)
 print("square numbers")
 for i in range(1,16):
